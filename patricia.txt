@@ -7,7 +7,7 @@ Mente Abierta
 El Letrero
 *Aron*
 Buenas Personas
-Estamos Aquí
+Estamos Aqui
 Digo Yo
 Clase De Segundo
 Hola
@@ -23,3 +23,4 @@ Esto Es Importante
 ¿Si?
 Me seguis
 Estais Conmigo
+Mirada Joker
