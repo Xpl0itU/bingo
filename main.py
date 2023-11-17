@@ -53,6 +53,8 @@ bingo_card = create_bingo_card(word_list.copy())
 # Keep track of selected cells
 selected_cells = set()
 
+clock = pygame.time.Clock()
+
 # Main game loop
 while True:
     for event in pygame.event.get():
@@ -102,3 +104,4 @@ while True:
             screen.blit(text, text_rect)
 
     pygame.display.flip()
+    clock.tick(5)
