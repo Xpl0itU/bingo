@@ -6,10 +6,10 @@ import random
 pygame.init()
 
 # Constants
-WINDOW_SIZE = (800, 400)
+WINDOW_SIZE = (600, 600)
 CELL_SIZE = 200
 NUM_ROWS = 3
-NUM_COLS = 4
+NUM_COLS = 3
 BG_COLOR = (255, 255, 255)
 NORMAL_COLOR = (255, 255, 255)
 SELECTED_COLOR = (255, 0, 0)  # Red
