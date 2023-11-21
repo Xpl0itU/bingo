@@ -20,7 +20,7 @@ FONT_COLOR = (0, 0, 0)
 
 # Function to read words from a file
 def read_words_from_file(file_path):
-    with open(file_path, "r") as file:
+    with open(file_path, "r", encoding="utf-8") as file:
         return [line.strip() for line in file]
 
 
